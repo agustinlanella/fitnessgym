@@ -1,0 +1,17 @@
+body {
+    background-color: #7e7e7e;
+  }
+  .negro {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem 0;
+  }
+  .gris {
+    background-color: #7e7e7e;
+  }
+  .negro-footer {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem 0;
+  }
+  
